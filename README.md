@@ -68,3 +68,13 @@ Travel Planner Crew AI Agents to Get `Travel Plan`for a specific `City`, `Travel
 - **Never commit** `.streamlit/secrets.toml` to version control
 - The `.gitignore` file is configured to exclude sensitive files
 - Use `.streamlit/secrets.toml.example` as a template
+
+## 👩‍💻 Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harini-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harini-muruganantham)
+[![GitHub](https://img.shields.io/badge/GitHub-Harini-black?style=flat-square&logo=github)](https://github.com/HariniMuruganantham)
+[![Substack](https://img.shields.io/badge/Substack-Harini-orange?style=flat-square&logo=substack)](https://substack.com/@harinimuruganantham)
+
+**Harini Muruganantham**  
+DevOps Engineer | AWS | 
+
